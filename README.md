@@ -8,6 +8,10 @@ Em construção ...
 
 Veja mais [imagens](https://pixelfed.social/p/vitoranguia/193777600651464704)
 
+## Notícias
+
+* 16 de Agosto de 2020, palestra no [Debian Day Brasil 2020](https://wiki.debian.org/Brasil/Eventos/DebianDayBrasil2020)
+
 ## Introdução
 
 O Kiosk EcoEdu é um projeto construído com equipamentos de computação

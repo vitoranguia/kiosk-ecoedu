@@ -47,12 +47,24 @@ possam implementá-lo e modificá-lo de acordo com os recursos e necessidades
 Além de incentivar educadores, alunos e a comunidade a tocarem iniciativas
 similares que visam a sustentabilidade, software livre e inclusão digital na educação
 
+## Softwares
+
+Sistema operacional `Debian` GNU/Linux (instalação mínima), gerenciador de
+janelas `OpenBox`, suite de jogos educativos `GCompris` e seus requerimentos  
+
+## Hardwares
+
+Laptop recondicionado `Asus Eee PC 701` com processador Intel Celeron-M 900MHz,
+4GB de armazenamento interno e 2GB de memória RAM, além de monitor CRT 14',
+teclado, mouse e caixas de som
+
 ## Links 
 
 * [Free Software Fundation](https://www.fsf.org/?set_language=pt-br)
 * [GNU](https://www.gnu.org/home.pt-br.html)
 * [Debian](https://www.debian.org/index.pt.html)
 * [GCompris](https://gcompris.net/index-pt_BR.html)
+* [OpenBox](http://openbox.org/wiki/Main_Page)
 * [StEP solving the E-waste Problem](http://www.step-initiative.org/other-publications.html)
 * [TIC Educação](https://www.cetic.br/pt/pesquisa/educacao/indicadores)
 

@@ -6,7 +6,7 @@ Em construção ...
 
 ![Banner](https://pixelfed.social/storage/m/_v2/11720/beff4a2a7-9f0d20/FgkLsA96ik4d/k6akesfGIb3PQ6LnlW2lykIJ3e92sBZUjrWxomtM.png)
 
-Veja mais [imagens](https://pixelfed.social/p/vitoranguia/193777600651464704)
+Veja mais [imagens](https://pixelfed.social/p/vitoranguia/193777600651464704) e [vídeo](https://peertube.social/videos/watch/b135aa25-cdc8-42e0-9bed-5270ead1dc85)
 
 ## Notícias
 

@@ -6,11 +6,7 @@ Em construção ...
 
 ![Banner](https://pixelfed.social/storage/m/_v2/11720/beff4a2a7-9f0d20/FgkLsA96ik4d/k6akesfGIb3PQ6LnlW2lykIJ3e92sBZUjrWxomtM.png)
 
-Veja mais [imagens](https://pixelfed.social/p/vitoranguia/193777600651464704) e [vídeo](https://peertube.social/videos/watch/b135aa25-cdc8-42e0-9bed-5270ead1dc85)
-
-## Notícias
-
-* 16 de Agosto de 2020, palestra no [Debian Day Brasil 2020](https://wiki.debian.org/Brasil/Eventos/DebianDayBrasil2020)
+Veja mais [imagens](https://pixelfed.social/p/vitoranguia/193777600651464704). [vídeo](https://peertube.social/videos/watch/b135aa25-cdc8-42e0-9bed-5270ead1dc85) e na [palestra](https://youtu.be/Sn8qGVEFBgY?t=7920) do [Debian Day Brasil 2020](https://wiki.debian.org/Brasil/Eventos/DebianDayBrasil2020)
 
 ## Introdução
 
